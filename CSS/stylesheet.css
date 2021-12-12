@@ -1,0 +1,27 @@
+.header{
+font-size: 30px;
+color: black;
+font-family: sans-serif;
+text-align: center;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.subtext{
+font-family: sans-serif;
+max-width: 700px;
+}
+.main{
+max-width: 1000px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h2{
+font-size: 25px;
+color: black;
+font-family: sans-serif;
+text-align: center;
+}
