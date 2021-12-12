@@ -11,13 +11,13 @@ margin-right: auto;
 }
 .subtext{
 font-family: sans-serif;
-max-width: 700px;
 }
 .main{
 max-width: 1000px;
 display: block;
 margin-left: auto;
 margin-right: auto;
+text-align: center;
 }
 h2{
 font-size: 25px;
